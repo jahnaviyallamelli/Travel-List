@@ -9,15 +9,15 @@ Here's a brief overview of the main features:
 ### Adding Items
   - To add an item, type the item description in the input field and specify the quantity.
   - Click on the "Add" button to add the item to the list.
-<br>
+
 ### Removing Items
   - Once an item is packed, you can remove it from the list by clicking on the "Remove" button next to the item.
-<br>
+
 ### Marking Items as Completed
   - After packing an item, you can mark it as completed by clicking on the checkbox next to the item.
-<br>
+
 ### Sorting Items
   - You can sort the items by description or whether they are packed or not.
   - Use the dropdown menu to select the desired sorting option.
-<br>
+
 **Thank you for using the Travel-List React project! Happy travels! 🌍✈️🧳**
