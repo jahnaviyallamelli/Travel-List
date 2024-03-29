@@ -11,9 +11,11 @@ Here's a brief overview of the main features:
   - Click on the "Add" button to add the item to the list.
 <br>
 ### Removing Items
-  - Once an item is packed, you can remove it from the list by clicking on the "Remove" button next to the item.<br>
+  - Once an item is packed, you can remove it from the list by clicking on the "Remove" button next to the item.
+<br>
 ### Marking Items as Completed
-  - After packing an item, you can mark it as completed by clicking on the checkbox next to the item.<br>
+  - After packing an item, you can mark it as completed by clicking on the checkbox next to the item.
+<br>
 ### Sorting Items
   - You can sort the items by description or whether they are packed or not.
   - Use the dropdown menu to select the desired sorting option.
